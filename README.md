@@ -6,7 +6,7 @@ The repository is updated continuously. Please come back to check for updates pr
 
 ## Platforms
 
-* [Raspberry Pi 3](https://github.com/juniorhack/att-hackathon/blob/master/raspberry.md)
+* [Raspberry Pi 3 + 5](https://github.com/juniorhack/att-hackathon/blob/master/raspberry.md)
   * [Sense HAT](https://github.com/juniorhack/att-hackathon/blob/master/raspberry.md#sense-hat)
   * [Pi Cam](https://github.com/juniorhack/att-hackathon/blob/master/raspberry.md#pi-camera)
   * [Speaker pHAT](https://github.com/juniorhack/att-hackathon/blob/master/raspberry.md#speaker-phat)
